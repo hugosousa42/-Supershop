@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Projetos\\Supershop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\data\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\data\\mockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\data\\mockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\data\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\data\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\data\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\data\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\data\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\data\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +42,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Startup.cs",
-              "RelativeDocumentMoniker": "Supershop\\Startup.cs",
-              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Startup.cs",
-              "RelativeToolTip": "Supershop\\Startup.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAIBAwCYAAAAvAAAA",
+              "DocumentIndex": 5,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Data\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "Supershop\\Data\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Data\\Entities\\IEntity.cs",
+              "RelativeToolTip": "Supershop\\Data\\Entities\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T16:00:22.913Z",
+              "WhenOpened": "2024-09-11T15:25:47.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Supershop\\Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "Supershop\\Data\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:56:42.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Data\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Supershop\\Data\\IProductRepository.cs",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Data\\IProductRepository.cs",
+              "RelativeToolTip": "Supershop\\Data\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:52:47.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Data\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Supershop\\Data\\GenericRepository.cs",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Data\\GenericRepository.cs",
+              "RelativeToolTip": "Supershop\\Data\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:33:46.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MockRepository.cs",
-              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Data\\MockRepository.cs",
-              "RelativeDocumentMoniker": "Supershop\\Data\\MockRepository.cs",
-              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Data\\MockRepository.cs",
-              "RelativeToolTip": "Supershop\\Data\\MockRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA2wBsAAAAcAAAA",
+              "DocumentIndex": 2,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Data\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Supershop\\Data\\IGenericRepository.cs",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Data\\IGenericRepository.cs",
+              "RelativeToolTip": "Supershop\\Data\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T15:56:50.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T14:31:46.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Supershop\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Supershop\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAIwIkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:57:39.053Z"
             }
           ]
         }
