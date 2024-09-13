@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Projetos\\Supershop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\controllers\\api\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\controllers\\api\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,28 +42,45 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Controllers\\API\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Supershop\\Controllers\\API\\ProductsController.cs",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Controllers\\API\\ProductsController.cs",
+              "RelativeToolTip": "Supershop\\Controllers\\API\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:37:38.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Supershop\\Data\\DataContext.cs",
               "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Data\\DataContext.cs",
               "RelativeToolTip": "Supershop\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T17:01:39.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "Supershop\\Views\\Products\\Edit.cshtml",
@@ -71,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Supershop\\Controllers\\ProductsController.cs",
@@ -83,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UserHelper.cs",
               "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Helpers\\UserHelper.cs",
               "RelativeDocumentMoniker": "Supershop\\Helpers\\UserHelper.cs",
@@ -95,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IUserHelper.cs",
               "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Helpers\\IUserHelper.cs",
               "RelativeDocumentMoniker": "Supershop\\Helpers\\IUserHelper.cs",
@@ -107,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SeedDb.cs",
               "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Data\\SeedDb.cs",
               "RelativeDocumentMoniker": "Supershop\\Data\\SeedDb.cs",
@@ -119,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Startup.cs",
               "RelativeDocumentMoniker": "Supershop\\Startup.cs",
