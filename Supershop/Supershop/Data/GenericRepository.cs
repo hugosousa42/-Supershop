@@ -1,9 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
-using SQLitePCL;
-using Supershop.Data.Entities;
-using System;
+﻿using System;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using SQLitePCL;
+using Supershop.Data.Entities;
+
 
 namespace Supershop.Data
 {

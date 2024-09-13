@@ -9,7 +9,7 @@ namespace Supershop.Data.Entities
 
         [Required]
         [MaxLength(50, ErrorMessage = "The filed {0} can contain {1} characters lenght.")]
-        public string Nome { get; set; }
+        public string Name { get; set; }
 
         [DisplayFormat(DataFormatString = "{0:F2}", ApplyFormatInEditMode = false)]
         public decimal Price { get; set; }
@@ -28,5 +28,7 @@ namespace Supershop.Data.Entities
 
         [DisplayFormat(DataFormatString = "{0:F2}", ApplyFormatInEditMode = false)]
         public double stock { get; set; }
+
+        public User user { get; set; }
     }
 }

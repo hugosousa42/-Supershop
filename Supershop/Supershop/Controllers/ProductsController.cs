@@ -7,21 +7,26 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Supershop.Data;
 using Supershop.Data.Entities;
+using Supershop.Helpers;
 
 namespace Supershop.Controllers
 {
     public class ProductsController : Controller
     {
         private readonly IProductRepository _productRepository;
-        public ProductsController(IProductRepository productRepository)
+        private readonly IUserHelper _userHelper;
+
+        public ProductsController(IProductRepository productRepository,
+            IUserHelper userHelper)
         {
             _productRepository = productRepository;
+            _userHelper = userHelper;
         }
 
         // GET: Products
         public  IActionResult Index()
         {
-            return View(_productRepository.GetAll());
+            return View(_productRepository.GetAll().OrderBy(p=>p.Name));
         }
 
         // GET: Products/Details/5
@@ -56,6 +61,8 @@ namespace Supershop.Controllers
         {
             if (ModelState.IsValid)
             {
+                //TODO: Change to the user that is here
+                product.user = await _userHelper.GetUserByEmailAsync("hugosb9@gmail.com");
                 await _productRepository.CreateAsync(product);
                 return RedirectToAction(nameof(Index));
             }
@@ -83,7 +90,7 @@ namespace Supershop.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,Price,ImageUrl,LastPurchase,LastSale,IsAvailable,stock")] Product product)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Price,ImageUrl,LastPurchase,LastSale,IsAvailable,stock")] Product product)
         {
             if (id != product.Id)
             {
@@ -94,7 +101,9 @@ namespace Supershop.Controllers
             {
                 try
                 {
-                   await _productRepository.UpdateAsync(product);
+                    //TODO: Change to the user that is here
+                    product.user = await _userHelper.GetUserByEmailAsync("hugosb9@gmail.com");
+                    await _productRepository.UpdateAsync(product);
                 }
                 catch (DbUpdateConcurrencyException)
                 {
