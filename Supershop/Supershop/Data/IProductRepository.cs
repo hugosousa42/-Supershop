@@ -1,5 +1,5 @@
-﻿using Supershop.Data.Entities;
-using System.Linq;
+﻿using System.Linq;
+using Supershop.Data.Entities;
 
 namespace Supershop.Data
 {
