@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Projetos\\Supershop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\controllers\\api\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\controllers\\api\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\data\\seeddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\data\\seeddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\helpers\\iuserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\helpers\\iuserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\helpers\\userhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|c:\\projetos\\supershop\\supershop\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAB78F21-AF95-40B9-AD29-FE428965D59E}|Supershop\\Supershop.csproj|solutionrelative:supershop\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,93 +46,112 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Supershop\\Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "Supershop\\Data\\ProductRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:06:07.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Supershop\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Supershop\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAA1wEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T16:14:45.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "Supershop\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "Supershop\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T15:52:52.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Data\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Supershop\\Data\\Entities\\Product.cs",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Data\\Entities\\Product.cs",
+              "RelativeToolTip": "Supershop\\Data\\Entities\\Product.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAywCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:59:57Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Controllers\\API\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Supershop\\Controllers\\API\\ProductsController.cs",
-              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Controllers\\API\\ProductsController.cs",
-              "RelativeToolTip": "Supershop\\Controllers\\API\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Supershop\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Supershop\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAADgv60AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T08:37:38.505Z",
+              "WhenOpened": "2024-09-12T13:37:22.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Supershop\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Data\\DataContext.cs",
-              "RelativeToolTip": "Supershop\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T17:01:39.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "Supershop\\Views\\Products\\Edit.cshtml",
               "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Views\\Products\\Edit.cshtml",
               "RelativeToolTip": "Supershop\\Views\\Products\\Edit.cshtml",
-              "ViewState": "AQIAACwAAAAAAAAAAAAgwDcAAAAGAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD4AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-12T15:13:16.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Supershop\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Supershop\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T13:37:22.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserHelper.cs",
-              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Helpers\\UserHelper.cs",
-              "RelativeDocumentMoniker": "Supershop\\Helpers\\UserHelper.cs",
-              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Helpers\\UserHelper.cs",
-              "RelativeToolTip": "Supershop\\Helpers\\UserHelper.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T13:15:34.037Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IUserHelper.cs",
-              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Helpers\\IUserHelper.cs",
-              "RelativeDocumentMoniker": "Supershop\\Helpers\\IUserHelper.cs",
-              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Helpers\\IUserHelper.cs",
-              "RelativeToolTip": "Supershop\\Helpers\\IUserHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T13:13:50.515Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Supershop\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Supershop\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T00:07:48.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Supershop\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Supershop\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T16:14:44.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SeedDb.cs",
               "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Data\\SeedDb.cs",
               "RelativeDocumentMoniker": "Supershop\\Data\\SeedDb.cs",
@@ -137,18 +160,6 @@
               "ViewState": "AQIAAAsAAAAAAAAAAAAmwBoAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T04:43:52.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Projetos\\Supershop\\Supershop\\Startup.cs",
-              "RelativeDocumentMoniker": "Supershop\\Startup.cs",
-              "ToolTip": "C:\\Projetos\\Supershop\\Supershop\\Startup.cs",
-              "RelativeToolTip": "Supershop\\Startup.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAIBAwDEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T17:46:19.387Z"
             }
           ]
         }
