@@ -363,16 +363,4 @@ C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Supershop.pdb
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Supershop.genruntimeconfig.cache
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\ref\Supershop.dll
 C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Azure.Core.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Azure.Identity.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Azure.Storage.Blobs.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Azure.Storage.Common.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Azure.Storage.Files.Shares.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Azure.Storage.Queues.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Microsoft.Extensions.Azure.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\System.ClientModel.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\System.IO.Hashing.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\System.Memory.Data.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Products\_Products.cshtml.g.cs

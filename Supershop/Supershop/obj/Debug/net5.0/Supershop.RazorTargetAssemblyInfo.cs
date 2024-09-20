@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("Supershop")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92413703f147ff19a8cd60dba7955e8fb22d4a5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+679bb4d33aa897ed2ac0bda1b7ffa3f376a82f14")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Supershop.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

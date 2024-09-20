@@ -1,6 +1,3 @@
-using Supershop.Data;
-using Supershop.Helpers;
-using Supershop.Data.Entities;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
@@ -8,11 +5,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System;
-using Microsoft.Extensions.Azure;
-using Azure.Storage.Queues;
-using Azure.Storage.Blobs;
-using Azure.Core.Extensions;
+using Supershop.Data;
+using Supershop.Data.Entities;
+using Supershop.Helpers;
 
 
 namespace Supershop
@@ -40,7 +35,7 @@ namespace Supershop
                 cfg.Password.RequiredLength = 6;
             })
                 .AddEntityFrameworkStores<DataContext>();
-            
+
 
             services.AddDbContext<DataContext>(cfg =>
             {
