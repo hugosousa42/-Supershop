@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using System.Threading.Tasks;
+using Microsoft.AspNetCore.Identity;
 using Supershop.Data.Entities;
-using System.Threading.Tasks;
 
 namespace Supershop.Helpers
 {

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Linq;
 using System.Threading.Tasks;
+using Supershop.Data.Entities;
 using Microsoft.EntityFrameworkCore;
 using SQLitePCL;
-using Supershop.Data.Entities;
 
 
 namespace Supershop.Data

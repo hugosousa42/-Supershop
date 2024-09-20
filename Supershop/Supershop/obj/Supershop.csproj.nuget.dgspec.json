@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Supershop\\Supershop\\Supershop.csproj": {}
+    "C:\\Projetos\\-Supershop\\Supershop\\Supershop\\Supershop.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Supershop\\Supershop\\Supershop.csproj": {
+    "C:\\Projetos\\-Supershop\\Supershop\\Supershop\\Supershop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Supershop\\Supershop\\Supershop.csproj",
+        "projectUniqueName": "C:\\Projetos\\-Supershop\\Supershop\\Supershop\\Supershop.csproj",
         "projectName": "Supershop",
-        "projectPath": "C:\\Projetos\\Supershop\\Supershop\\Supershop.csproj",
-        "packagesPath": "C:\\Users\\hugosb9\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Supershop\\Supershop\\obj\\",
+        "projectPath": "C:\\Projetos\\-Supershop\\Supershop\\Supershop\\Supershop.csproj",
+        "packagesPath": "C:\\Users\\hugosb999\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\-Supershop\\Supershop\\Supershop\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\hugosb9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hugosb999\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +50,18 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.10.0, )"
+            },
+            "Azure.Storage.Files.Shares": {
+              "target": "Package",
+              "version": "[12.10.0, )"
+            },
+            "Azure.Storage.Queues": {
+              "target": "Package",
+              "version": "[12.10.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.17, )"
@@ -68,9 +84,17 @@
               "target": "Package",
               "version": "[5.0.17, )"
             },
+            "Microsoft.Extensions.Azure": {
+              "target": "Package",
+              "version": "[1.7.3, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
+            },
+            "WindowsAzure.Storage": {
+              "target": "Package",
+              "version": "[9.3.3, )"
             }
           },
           "imports": [
@@ -92,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
