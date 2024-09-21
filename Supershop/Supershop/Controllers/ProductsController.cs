@@ -10,9 +10,11 @@ using Microsoft.EntityFrameworkCore;
 using Supershop.Data;
 using Supershop.Helpers;
 using Supershop.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Supershop.Controllers
 {
+   
     public class ProductsController : Controller
     {
         private readonly IProductRepository _productRepository;
@@ -55,6 +57,7 @@ namespace Supershop.Controllers
         }
 
         // GET: Products/Create
+        [Authorize]
         public IActionResult Create()
         {
             return View();
@@ -65,6 +68,7 @@ namespace Supershop.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        
         public async Task<IActionResult> Create(ProductViewModel model)
         {
             if (ModelState.IsValid)
@@ -87,6 +91,8 @@ namespace Supershop.Controllers
         }
 
         // GET: Products/Edit/5
+        [Authorize]
+
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -145,6 +151,7 @@ namespace Supershop.Controllers
         }
 
         // GET: Products/Delete/5
+        [Authorize]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)

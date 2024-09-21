@@ -364,3 +364,4 @@ C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Supershop.genruntime
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\ref\Supershop.dll
 C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Products\_Products.cshtml.g.cs
+C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
