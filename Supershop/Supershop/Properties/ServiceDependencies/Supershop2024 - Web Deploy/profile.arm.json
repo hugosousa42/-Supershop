@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "Supershop2",
+      "defaultValue": "Supershop2024",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
