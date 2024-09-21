@@ -243,6 +243,7 @@ C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\System.Diagnostics.D
 C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\System.Runtime.Caching.dll
 C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
 C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -341,6 +342,7 @@ C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Products
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Products\_Products.cshtml.g.cs
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -362,5 +364,3 @@ C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\refint\Supershop.dll
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Supershop.pdb
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Supershop.genruntimeconfig.cache
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\ref\Supershop.dll
-C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\Microsoft.WindowsAzure.Storage.dll
-C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Products\_Products.cshtml.g.cs
