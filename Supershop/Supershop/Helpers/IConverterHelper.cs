@@ -6,7 +6,7 @@ namespace Supershop.Helpers
 {
     public interface IConverterHelper
     {
-        Product ToProduct(ProductViewModel model, Guid imageId, bool IsNew);
+        Product ToProduct(ProductViewModel model, string imageUrl, bool IsNew);
 
         ProductViewModel ToProductViewModel(Product product);
     }
