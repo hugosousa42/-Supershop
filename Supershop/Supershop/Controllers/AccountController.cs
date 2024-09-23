@@ -142,7 +142,7 @@ namespace Supershop.Controllers
 
         public IActionResult ChangePassword()
         {
-            return View(new ChangePasswordViewModel());
+            return View();
         }
 
         [HttpPost]
