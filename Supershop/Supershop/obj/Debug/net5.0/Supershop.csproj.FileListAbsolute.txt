@@ -368,3 +368,4 @@ C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Account\
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Account\ChangeUser.cshtml.g.cs
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\libman.json
