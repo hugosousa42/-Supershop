@@ -145,6 +145,7 @@ namespace Supershop.Controllers
             return View();
         }
 
+
         [HttpPost]
         public async Task<IActionResult> ChangePassword(ChangePasswordViewModel model)
         {
@@ -174,7 +175,14 @@ namespace Supershop.Controllers
             return this.View(model);
         }
 
+        public IActionResult NotAuthorized()
+        {
+            return View();
+        }
+      
     }
+
+
 }
 
 
