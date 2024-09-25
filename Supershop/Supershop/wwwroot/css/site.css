@@ -257,7 +257,7 @@ body {
     box-sizing: border-box;
 }
 
-body {
+.body {
     background-color: #416475;
     margin-bottom: 50px;
 }
