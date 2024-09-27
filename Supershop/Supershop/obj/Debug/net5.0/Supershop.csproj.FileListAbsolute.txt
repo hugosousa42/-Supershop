@@ -373,3 +373,5 @@ C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Account\
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Products\ProductNotFound.cshtml.g.cs
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Home\Error404.cshtml.g.cs
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Orders\Create.cshtml.g.cs
+C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Orders\AddProduct.cshtml.g.cs
