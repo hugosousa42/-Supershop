@@ -19,13 +19,13 @@
                 </th>
             }
             <th>
-                @Html.DisplayNameFor(model => model.OrderDate)
+                @Html.DisplayNameFor(model => model.OrderDateLocal)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.DeliveryDate)
             </th>
             <th>
-               # Lines
+                @Html.DisplayNameFor(model => model.Lines)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Quantity)
@@ -33,7 +33,6 @@
             <th>
                 @Html.DisplayNameFor(model => model.Value)
             </th>
-                <th></th>
         </tr>
     </thead>
     <tbody>
@@ -46,14 +45,14 @@
                         @Html.DisplayFor(modelItem => item.User.FullName)
                     </th>
                 }
-                    <td>
-                        @Html.DisplayFor(modelItem => item.OrderDate)
-                    </td>
                 <td>
-                    # Lines
+                    @Html.DisplayFor(modelItem => item.OrderDateLocal)
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.DeliveryDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Lines)
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Quantity)

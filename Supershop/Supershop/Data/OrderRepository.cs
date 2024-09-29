@@ -4,6 +4,7 @@ using Supershop.Data.Entities;
 using Supershop.Models;
 using Supershop.Helpers;
 using Microsoft.EntityFrameworkCore;
+using System;
 
 namespace Supershop.Data
 {
@@ -57,6 +58,43 @@ namespace Supershop.Data
             await _context.SaveChangesAsync();
         }
 
+        public async Task<bool> ConfirmOrderAsync(string usarName)
+        {
+            var user = await _userHelper.GetUserByEmailAsync(usarName);
+            if (user == null) 
+            { 
+                return false;
+            }
+
+            var ordTmps = await _context.OrderDetailsTemp
+                .Include(o => o.Product)
+                .Where(o =>o.User == user)
+                .ToListAsync();
+            
+            if (ordTmps == null || ordTmps.Count == 0)
+            {
+                return false;
+            }
+
+            var detail = ordTmps.Select(o => new OrderDetail 
+            {
+                Price = o.Price,
+                Product = o.Product,
+                Quantity = o.Quantity
+            }).ToList();
+
+            var order = new Order
+            {
+                OrderDate = DateTime.UtcNow,
+                User = user,
+                Items = detail
+            };
+            await CreateAsync(order);
+            _context.OrderDetailsTemp.RemoveRange(ordTmps);
+            await _context.SaveChangesAsync();
+            return true;
+        }
+
         public async Task DeleteDetailTempAsync(int id)
         {
             var orderDetailTemp = await _context.OrderDetailsTemp.FindAsync(id);
@@ -95,6 +133,7 @@ namespace Supershop.Data
             if (await _userHelper.IsUserInRoleAsyc (user, "Admin"))
             {
                 return _context.Orders
+                    .Include(o => o.User)
                     .Include(o => o.Items)
                     .ThenInclude(i => i.Product)
                     .OrderByDescending(o => o.OrderDate);
