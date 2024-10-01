@@ -18,5 +18,9 @@ namespace Supershop.Data
         Task DeleteDetailTempAsync(int id);
 
         Task<bool> ConfirmOrderAsync(string usarName);
+
+        Task DeliveryOrder(DeliveryViewModel model);
+
+        Task<Order> GetOrderAsync(int id);
     }
 }

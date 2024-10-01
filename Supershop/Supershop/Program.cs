@@ -1,14 +1,7 @@
-using System;
 using Supershop.Data;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using Microsoft.EntityFrameworkCore;
 
 namespace Supershop
 {
@@ -29,8 +22,8 @@ namespace Supershop
                 var seeder = scope.ServiceProvider.GetService<SeedDb>();
                 seeder.SeedAsync().Wait();
             }
- 
-           
+
+
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

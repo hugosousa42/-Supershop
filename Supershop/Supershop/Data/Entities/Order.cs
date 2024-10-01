@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Http.Features;
-using System;
+﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
+using Microsoft.AspNetCore.Http.Features;
 
 namespace Supershop.Data.Entities
 {
@@ -16,10 +16,10 @@ namespace Supershop.Data.Entities
         [DisplayFormat(DataFormatString = "{0:yyyy/MM/dd hh:mm tt}", ApplyFormatInEditMode = false)]
         public DateTime OrderDate { get; set; }
 
-        [Required]
+       
         [Display(Name = "Delivery Date")]
         [DisplayFormat(DataFormatString = "{0:yyyy/MM/dd hh:mm tt}", ApplyFormatInEditMode = false)]
-        public DateTime DeliveryDate { get; set; }
+        public DateTime? DeliveryDate { get; set; }
 
         [Required]
         public User User { get; set; }
