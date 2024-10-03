@@ -393,3 +393,5 @@ C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\System.Runtime.Compi
 C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
 C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Account\RecoverPassword.cshtml.g.cs
+C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
