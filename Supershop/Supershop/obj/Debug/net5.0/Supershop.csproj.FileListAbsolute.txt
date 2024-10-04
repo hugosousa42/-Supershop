@@ -395,3 +395,4 @@ C:\Projetos\-Supershop\Supershop\Supershop\bin\Debug\net5.0\System.Text.Encoding
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Account\RecoverPassword.cshtml.g.cs
 C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Projetos\-Supershop\Supershop\Supershop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationCurrencyPartial.cshtml.g.cs
